@@ -1,4 +1,4 @@
-# JobTrack — Job Application Tracker
+``# JobTrack — Job Application Tracker
 
 A full-stack web application to manage and track job applications
 in one place.
@@ -43,3 +43,11 @@ in one place.
 ```bash
 git clone https://github.com/prayag-h05/JobTrack.git
 cd JobTrack
+
+
+## Screenshots
+
+### Dashboard
+
+![JobTrack Dashboard](screenshots/dashboard.png)
+
