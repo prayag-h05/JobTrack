@@ -36,6 +36,13 @@ in one place.
 - `test_main.py` — Backend tests
 - `frontend/` — React frontend
 
+## Screenshots
+
+### Dashboard
+
+![JobTrack Dashboard](screenshots/dashboard.png)
+
+
 ## Run Locally
 
 ### 1. Clone the repository
@@ -45,9 +52,4 @@ git clone https://github.com/prayag-h05/JobTrack.git
 cd JobTrack
 
 
-## Screenshots
-
-### Dashboard
-
-![JobTrack Dashboard](screenshots/dashboard.png)
 
